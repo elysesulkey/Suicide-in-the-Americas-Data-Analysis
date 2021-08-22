@@ -1,8 +1,8 @@
 # projectone-groupsix
 
-Our group decided to analyze the subject of suicide in the Americas
-The motivation behind our subject matter was an interest in applying the skills we have learned thus far to a real-world issue
-We chose specific variables that we agreed may have contributed and/or correlated with suicide rates in various countries
+Our group decided to analyze the subject of suicide in the Americas.
+The motivation behind our subject matter was an interest in applying the skills we have learned thus far to a real-world issue.
+We chose specific variables that we agreed may have contributed and/or correlated with suicide rates in various countries.
 We took into account; GDP per country, Gender, Year, Age Range and Geographic Location, as variables that may have similar trends to the Suicide Rate Mean
 Our goal is not to form our analysis from a predetermined outcome; but rather, our objective is to create a narrative from our findings through the data.
 
